@@ -1,10 +1,7 @@
 <h2 align="left">Hello 👋! I'm Tantalost, a Linux & Python Enthusiast</h2>
 
-<img align="right" height="150" src="https://media1.tenor.com/m/tHLGe49Kf1EAAAAC/oh-blow-fish.gif" />
-
 <h1 align="center">🔥 Github Stats</h1>
 
-<!-- Layout: Stats on the left, banner on the right -->
 <table>
   <tr>
     <td>
@@ -17,8 +14,6 @@
   <img src="https://img.shields.io/badge/Issues-37-critical?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Contributed (last year)-2-lightgrey?style=for-the-badge" />
 </div>
-
-<br>
 
 <!-- GitHub Streak and Stats -->
 <p>
@@ -35,32 +30,25 @@
 
 </td>
 <td>
+  <img align="right" height="150" src="https://media1.tenor.com/m/tHLGe49Kf1EAAAAC/oh-blow-fish.gif" />
   <img src="https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/b8c1faa9-42c1-4454-a13d-62f0e0142695/the-climber%2Fkokou-no-hito-the-solitary-person-1-sabukaru.jpg" alt="Anime Banner" width="350px"/>
 </td>
 </tr>
 </table>
 
----
-
 ### 🚀 Top Open Source Project
 
 <div align="center">
-  
-<a href="https://github.com/Tantalost/Final-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tantalost&repo=Final-Project&theme=tokyonight" />
-</a>
-
+  <a href="https://github.com/Tantalost/Final-Project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tantalost&repo=Final-Project&theme=tokyonight" />
+  </a>
 </div>
-
----
 
 ### 🧠 Current Focus
 
 > 🛠️ Improving contributions streak  
 > 🚀 Creating BotNets and SIEMs  
 > 📦 Learning Arduinos
-
----
 
 ### 💬 Connect with Me
 
