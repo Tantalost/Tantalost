@@ -48,7 +48,7 @@
 
 > 🛠️ Improving contributions streak  
 > 🚀 Creating BotNets and SIEMs  
-> 📦 Learning Arduinos
+> 📦 Completing CompTIA Security+ (SYO 701) Cert
 
 ### 💬 Connect with Me
 
