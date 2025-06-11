@@ -46,8 +46,6 @@
 
 ### 🧠 Current Focus
 
-![Snake animation](https://raw.githubusercontent.com/Tantalost/Tantalost/main/snake.svg)
-
 > 🛠️ Improving contributions streak  
 > 🚀 Creating BotNets and SIEMs  
 > 📦 Completing CompTIA Security+ (SYO 701) Cert
@@ -57,3 +55,6 @@
 <p align="center">
   <a href="https://github.com/Tantalost"><img src="https://img.shields.io/badge/GitHub-Tantalost-181717?style=for-the-badge&logo=github" /></a>
 </p>
+
+
+![Snake animation](https://raw.githubusercontent.com/Tantalost/Tantalost/main/snake.svg)
