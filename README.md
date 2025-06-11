@@ -57,4 +57,5 @@
 </p>
 
 
-![Snake animation](https://raw.githubusercontent.com/Tantalost/Tantalost/main/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Tantalost/Tantalost/output/dist/github-contribution-grid-snake.svg)
+
