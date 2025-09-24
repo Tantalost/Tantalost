@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! I'm Tantalost, a Linux & Python Enthusiast</h2>
+<h2 align="left">Hello 👋! I'm Tantalost, Linux & DedSec Enthusiast</h2>
 
 <h1 align="center">🔥 Github Stats</h1>
 
