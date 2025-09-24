@@ -40,7 +40,7 @@
 
 <div align="center">
   <a href="https://github.com/Tantalost/Final-Project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tantalost&repo=Final-Project&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tantalost&repo=homelab-documentation&theme=tokyonight" />
   </a>
 </div>
 
