@@ -50,12 +50,5 @@
 > 🚀 Creating BotNets and SIEMs  
 > 📦 Completing CompTIA Security+ (SYO 701) Cert
 
-### 💬 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/Tantalost"><img src="https://img.shields.io/badge/GitHub-Tantalost-181717?style=for-the-badge&logo=github" /></a>
-</p>
-
-
-![Snake animation SVG](https://raw.githubusercontent.com/Tantalost/Tantalost/master/dist/github-contribution-grid-snake.svg)
-![Snake animation GIF](https://raw.githubusercontent.com/Tantalost/Tantalost/master/dist/github-contribution-grid-snake.gif)
+### <h3 align="center">Languages & Frameworks</h3>
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
