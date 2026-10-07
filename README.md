@@ -44,6 +44,11 @@
   </a>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tantalost/Tantalost/github-breakout/images/breakout-dark.svg">
+  <img alt="Breakout game" src="https://raw.githubusercontent.com/Tantalost/Tantalost/github-breakout/images/breakout-light.svg">
+</picture>
+
 ### 🧠 Current Focus
 
 > 🛠️ Improving contributions streak  
